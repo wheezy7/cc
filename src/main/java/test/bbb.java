@@ -6,7 +6,6 @@ public class bbb {
         System.out.println("dfsdfsd");
         System.out.println("hello git");
         System.out.println("xumeiqi");
-        System.out.println("chongtu1");
         System.out.println("push test");
     }
 }
